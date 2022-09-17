@@ -109,4 +109,4 @@ let safePosition = Number(head.data - 1);
 
 document.write(safePosition);
 
-document.getElementById("safe-position").innerHTML = "Safe position to stand in " + safePosition;
+document.getElementById("safe-position").innerHTML = "Safe position to stand in is - " + safePosition + "th position";
